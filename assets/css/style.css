@@ -2,11 +2,29 @@
   padding: 0;
   margin: 0;
   font-family: 'Poppins', Helvetica, sans-serif;
-  color: #fff;
+  box-sizing: border-box;
 }
 
 .material-symbols-outlined {
   font-variation-settings: 'FILL' 1, 'wght' 400, 'GRAD' 0, 'opsz' 48;
+}
+
+@keyframes slide-left {
+  from {
+    transform: translateX(0);
+  }
+  to {
+    transform: translateX(-100%);
+  }
+}
+
+@keyframes slide-right {
+  from {
+    transform: translateX(-100%);
+  }
+  to {
+    transform: translateX(0);
+  }
 }
 
 .header {
@@ -47,7 +65,8 @@ header > button {
   cursor: pointer;
 }
 
-main {
+#home {
+  position: relative;
   margin: 20px 15px auto;
 }
 
@@ -88,7 +107,7 @@ main {
 }
 
 .pattern-white {
-  position: absolute;
+  /* position: absolute; */
   left: 0;
   right: 0;
   margin-top: 200px;
@@ -99,10 +118,77 @@ main {
 }
 
 #client-home {
-  position: absolute;
-  background-color: #f7fcff;
+  position: relative;
+
   left: 0;
   right: 0;
   margin-top: 250px;
+}
+
+.list-client {
+  background-color: #f7fcff;
+}
+
+.swiper-container {
+  overflow: hidden;
+  white-space: nowrap;
+}
+
+.client-logos-left {
+  display: inline-block;
+  animation: 60s slide-left infinite linear;
+}
+
+.client-logos-right {
+  display: inline-block;
+  animation: 60s slide-right infinite linear;
+}
+
+.img-card {
+  background-color: white;
+  margin: 0 5px;
+  height: 50px;
+  padding: 10px;
+  border-radius: 30%;
+  box-shadow: 0 10px 20px 0 rgb(45 50 55 / 6%);
+}
+
+.card-container > h2 {
+  text-align: center;
+  padding: 50px;
+  color: white;
+}
+
+.card {
+  width: 90%;
   height: 200px;
+  margin: auto auto 10px;
+  padding: 15px;
+  background-color: #fff;
+  color: black;
+  border-radius: 5%;
+}
+
+.card > p {
+  font-size: 0.6em;
+  margin-bottom: 15px;
+}
+
+.card > span > a {
+  font-size: 0.8em;
+  color: #054fbf;
+}
+
+.heading-payment {
+  display: flex;
+  margin-bottom: 10px;
+}
+
+.heading-payment > img {
+  height: 30px;
+  margin-right: 10px;
+}
+
+.heading-payment > h3 {
+  font-size: 0.7em;
 }

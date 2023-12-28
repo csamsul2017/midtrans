@@ -15,7 +15,7 @@ https://midtrans.com/assets/img/image.avif?v=1676436294
 -------------------------------------------------------------
 
 Sayur Box
-https://storage.googleapis.com/go-merchant-product…609820586b3b_b8d7e617a4658254bc44c261894ae69a.png
+https://storage.googleapis.com/go-merchant-production.appspot.com/uploads/2023/02/cf811ba3379169d06dda609820586b3b_b8d7e617a4658254bc44c261894ae69a.png
 
 Alfa gift
 https://storage.googleapis.com/go-merchant-production.appspot.com/uploads/2023/02/eec4852a902caf2717a064d4283b5744_b8d7e617a4658254bc44c261894ae69a.png
@@ -28,3 +28,22 @@ https://storage.googleapis.com/go-merchant-production.appspot.com/uploads/2023/0
 
 auksi
 https://storage.googleapis.com/go-merchant-production.appspot.com/uploads/2023/02/8630e5335ce3c016d0ed8f13a14d1749_b8d7e617a4658254bc44c261894ae69a.png
+
+Klamby
+https://storage.googleapis.com/go-merchant-production.appspot.com/uploads/2023/02/24e417c802709a1f9e56c9cda1c9f0b6_b8d7e617a4658254bc44c261894ae69a.png
+
+BSI
+https://storage.googleapis.com/go-merchant-production.appspot.com/uploads/2023/02/064a88ea3a06387833ef160a320dc938_21c0836547a12a0fbb1463d0102e1436.png
+
+HDI
+https://storage.googleapis.com/go-merchant-production.appspot.com/uploads/2023/06/75a98cb353fe631cb94867034194ab90_bb0d0527356faf4fd9655a5b14be202d.png
+
+Telkomsel
+https://storage.googleapis.com/go-merchant-production.appspot.com/uploads/2023/02/efd7d298ff8c64a5ab92c2394f8699ed_b8d7e617a4658254bc44c261894ae69a.png
+
+Codashop
+https://storage.googleapis.com/go-merchant-production.appspot.com/uploads/2023/02/d970bf66aeba310b9d21968efc78bc6a_b8d7e617a4658254bc44c261894ae69a.png
+
+Evermos
+https://storage.googleapis.com/go-merchant-production.appspot.com/uploads/2023/02/c678e3f5fd9937c993f488af438fea0d_b8d7e617a4658254bc44c261894ae69a.png
+
